@@ -1,1 +1,1 @@
-Script that prints text - Task 1
+learning Shell Redirections and Characters
